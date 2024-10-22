@@ -3,3 +3,5 @@ UTILIZANDO O REBASE
 commit 1 realizado
 
 commit 5
+
+commit 6
